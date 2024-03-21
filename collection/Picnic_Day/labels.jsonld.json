@@ -1,0 +1,24 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1789807",
+    "http://schema.org/name": "Picnic Day"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/549782",
+    "http://schema.org/name": "University of California, Davis"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/923329",
+    "http://schema.org/name": "Festivals"
+  }
+]

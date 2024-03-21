@@ -1,0 +1,48 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1789807"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/549782"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/923329"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/UCD_19880416.pdf"
+  },
+  "schema:creator": "University of California, Davis. Associated Students.",
+  "schema:datePublished": "1988",
+  "schema:identifier": [
+    "ark:/87293/d3697030d",
+    "LD781.D45 C3"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/UCD_19880416-00.jpg"
+  },
+  "schema:isPartOf": {
+    "@id": "https://search.library.ucdavis.edu/permalink/01UCD_INST/13iosf5/alma990007983940403126"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Picnic Day program 1988",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+}
