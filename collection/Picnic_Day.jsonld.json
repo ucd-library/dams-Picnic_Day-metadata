@@ -32,7 +32,10 @@
     "@value": "2023"
   },
   "schema:description": "Picnic Day, the University of California, Davis annual Open House, has been a tradition on campus since 1909. The digital collection includes programs from nearly every year between 1909-2019. The physical collection also includes newspaper clippings, and memorabilia from the Picnic Day celebrations. A complete inventory is available in the collection’s finding aid at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8df6xks/). \n\n Funding for the digitization was provided by the Richard H. and Marilyn (Slater) McCapes Family Trust Gift Fund.",
-  "schema:identifier": "AR-075",
+  "schema:identifier": [
+    "ark:/87293/d36q1sq2t",
+    "AR-075"
+  ],
   "schema:image": {
     "@id": "info:fedora/item/ark:/87293/d3hq3s35r/media/Picnic_Day_2011_001.jpg"
   },
