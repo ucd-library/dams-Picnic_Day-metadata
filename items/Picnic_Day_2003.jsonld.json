@@ -37,9 +37,6 @@
   "schema:image": {
     "@id": "@base:/media/UCD_20030411-00.jpg"
   },
-  "schema:isPartOf": {
-    "@id": "https://search.library.ucdavis.edu/permalink/01UCD_INST/13iosf5/alma990007983940403126"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
