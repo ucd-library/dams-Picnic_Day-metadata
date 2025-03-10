@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:encodesCreativeWork": {
-    "@id": "@base:../Picnic_Day_2001.pdf"
+    "@id": "@base:../Picnic_Day_program_2001.pdf"
   },
   "schema:name": "Image List",
   "ldp:hasMemberRelation": {
